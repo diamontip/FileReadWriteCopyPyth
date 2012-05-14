@@ -1,4 +1,4 @@
-#code to write file
+#code to write content to a file
 
 #providing name for the file to be created
 filename = raw_input("Give name for the file: ")
